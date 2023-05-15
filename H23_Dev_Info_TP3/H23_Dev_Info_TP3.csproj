@@ -7,12 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="DataConverters.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="DataConverters.cs" />
-  </ItemGroup>
-
 </Project>
